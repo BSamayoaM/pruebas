@@ -4,6 +4,9 @@ nmap --help
 Escaneo
 nmap 192.168.1.2
 
+Escaneo de puerto 
+nmap -p 20 192.168.1.2
+
 Escaneo de rango de puertos
 nmap -p 20-200 192.168.1.2
 
