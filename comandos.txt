@@ -10,7 +10,13 @@ nmap -p 20-200 192.168.1.2
 Escaneo sistema operativo
 nmap -A -v 192.168.1.2
 
-Escaneos
+Escaneos Syn Scan -sS
+Escaneo UDP -sU
+Escaneo sistema operativo -O
+Version de servicios -sV
+Aumentar verbosidad -v
+Aumentar aun mas la verbosidad -vv
+Timing nivel 5 -T5
 
 
 
