@@ -4,6 +4,9 @@ nmap --help
 Escaneo
 nmap 192.168.1.2
 
+Escanea todas las direcciones
+nmap 192.168.6.0/24
+
 Escaneo de puerto 
 nmap -p 20 192.168.1.2
 
@@ -12,6 +15,9 @@ nmap -p 20-200 192.168.1.2
 
 Escaneo modo agresivo
 nmap -A -v 192.168.1.2
+
+Escaneo puertos abiertos
+nmap -sT 192.168.1.2
 
 Escaneos Syn Scan -sS
 Escaneo UDP -sU
