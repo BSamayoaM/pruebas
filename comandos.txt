@@ -1,6 +1,6 @@
 Ayuda 
 nmap --help
-
+5
 Escaneo
 nmap 192.168.1.2
 
