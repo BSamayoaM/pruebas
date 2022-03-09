@@ -44,4 +44,8 @@ Escanear todos los puertos -p-
 
 -iL fichero de lista
 
+nmap -sV 192.168.1.43
+
+nmap -F 192.168.1.10/24
+
 
