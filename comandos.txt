@@ -30,3 +30,18 @@ Escanear todos los puertos -p-
 
 
 
+-T0 paranoico
+-T1 sigiloso
+-T2 sofisticado
+-T3 normal
+-T4 agresivo
+-T5 locura
+
+-sS analisis TCP SYN
+-sT analisis TCP CONNECT
+-sU anasisi UDP
+-sY analisis SCTP
+
+-iL fichero de lista
+
+
