@@ -10,4 +10,8 @@ nmap -p 20-200 192.168.1.2
 Escaneo sistema operativo
 nmap -A -v 192.168.1.2
 
+Escaneos
+
+
+
 
